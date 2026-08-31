@@ -1,0 +1,5 @@
+a collaborative approach that unites software development and IT operations to deliver applications faster and more reliably.
+Plan & Code: Teams track user stories and write source code using version control systems like Git.
+Build & Test: Code is compiled automatically and checked for bugs using automated testing tools.
+Deploy & Release: Software is pushed to production safely using automated rollouts and deployment tools like Terraform.
+Operate & Monitor: Teams track system performance and user feedback to inform the next planning phase.
